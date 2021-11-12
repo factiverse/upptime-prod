@@ -56,12 +56,12 @@ sites:
     body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
 
 workflowSchedule:
-  graphs: "0 0 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  graphs: "*/60 * * * *"
+  responseTime: "*/60 * * * *"
+  staticSite: "0 0 * * *"
+  summary: "*/60 * * * *"
+  updateTemplate: "*/60 * * * *"
+  updates: "*/60 * * * *"
   uptime: "*/60 * * * *"
 
 status-website:
