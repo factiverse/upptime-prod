@@ -94,10 +94,10 @@
     "url": "https://api.factiverse.no/0.1.0/fact_check",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-fact-check",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 10790,
@@ -105,7 +105,9 @@
     "timeWeek": 9854,
     "timeMonth": 10013,
     "timeYear": 10790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-12": 1
+    }
   },
   {
     "name": "POST to Search",
