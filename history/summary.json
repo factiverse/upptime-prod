@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 495,
-    "timeWeek": 503,
+    "timeWeek": 502,
     "timeMonth": 502,
     "timeYear": 505,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 324,
     "timeDay": 306,
-    "timeWeek": 315,
+    "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 324,
     "dailyMinutesDown": {}
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 312,
+    "timeDay": 313,
     "timeWeek": 321,
     "timeMonth": 321,
     "timeYear": 318,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2604,
-    "timeDay": 2350,
-    "timeWeek": 2433,
+    "time": 2603,
+    "timeDay": 2352,
+    "timeWeek": 2432,
     "timeMonth": 2492,
-    "timeYear": 2604,
+    "timeYear": 2603,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1807,
-    "timeDay": 359,
-    "timeWeek": 368,
-    "timeMonth": 1534,
-    "timeYear": 1807,
+    "time": 1803,
+    "timeDay": 360,
+    "timeWeek": 367,
+    "timeMonth": 1529,
+    "timeYear": 1803,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
-    "time": 8765,
-    "timeDay": 7043,
-    "timeWeek": 7137,
-    "timeMonth": 8225,
-    "timeYear": 8765,
+    "time": 8762,
+    "timeDay": 7053,
+    "timeWeek": 7142,
+    "timeMonth": 8223,
+    "timeYear": 8762,
     "dailyMinutesDown": {
       "2021-11-12": 52
     }
@@ -121,8 +121,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 753,
-    "timeDay": 694,
-    "timeWeek": 733,
+    "timeDay": 701,
+    "timeWeek": 734,
     "timeMonth": 730,
     "timeYear": 753,
     "dailyMinutesDown": {}
@@ -162,7 +162,7 @@
     "timeMonth": 352,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2021-11-23": 426,
+      "2021-11-23": 486,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
       "2021-11-20": 1440,
