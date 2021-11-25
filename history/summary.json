@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "get-to-dummy",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 501,
-    "timeDay": 454,
-    "timeWeek": 494,
+    "timeDay": 452,
+    "timeWeek": 493,
     "timeMonth": 497,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-dummy",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 321,
     "timeDay": 295,
-    "timeWeek": 308,
+    "timeWeek": 309,
     "timeMonth": 312,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-bias-detection",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 317,
     "timeDay": 304,
-    "timeWeek": 315,
+    "timeWeek": 316,
     "timeMonth": 319,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-stance-detection",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 2582,
-    "timeDay": 2360,
+    "timeDay": 2362,
     "timeWeek": 2425,
     "timeMonth": 2481,
     "timeYear": 2582,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-claim-detection",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 1635,
-    "timeDay": 349,
+    "timeDay": 348,
     "timeWeek": 362,
     "timeMonth": 1350,
     "timeYear": 1635,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-fact-check",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.88%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.88%",
     "time": 8577,
-    "timeDay": 7151,
-    "timeWeek": 7166,
+    "timeDay": 7167,
+    "timeWeek": 7165,
     "timeMonth": 8062,
     "timeYear": 8577,
     "dailyMinutesDown": {
-      "2021-11-25": 65,
+      "2021-11-25": 125,
       "2021-11-12": 52
     }
   },
@@ -126,18 +126,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-search",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.91%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.91%",
     "time": 749,
-    "timeDay": 663,
+    "timeDay": 660,
     "timeWeek": 720,
     "timeMonth": 728,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -146,18 +146,18 @@
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-feedback",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "95.48%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.90%",
+    "uptimeDay": "91.33%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.90%",
     "time": 311,
-    "timeDay": 296,
+    "timeDay": 297,
     "timeWeek": 309,
     "timeMonth": 313,
     "timeYear": 311,
     "dailyMinutesDown": {
-      "2021-11-25": 65
+      "2021-11-25": 125
     }
   },
   {
@@ -177,7 +177,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-11-25": 486,
+      "2021-11-25": 546,
       "2021-11-24": 1440,
       "2021-11-23": 1440,
       "2021-11-22": 1440,
