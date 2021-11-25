@@ -4,108 +4,119 @@
     "url": "https://api.factiverse.no/0.1.0/dummy",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "get-to-dummy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 460,
+    "timeDay": 457,
     "timeWeek": 493,
     "timeMonth": 497,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to dummy",
     "url": "https://api.factiverse.no/0.1.0/dummy",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-dummy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 321,
-    "timeDay": 298,
+    "timeDay": 295,
     "timeWeek": 308,
     "timeMonth": 312,
     "timeYear": 321,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /bias_Detection",
     "url": "https://api.factiverse.no/0.1.0/bias_detection",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-bias-detection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 307,
+    "timeDay": 303,
     "timeWeek": 315,
     "timeMonth": 319,
     "timeYear": 317,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /stance_detection",
     "url": "https://api.factiverse.no/0.1.0/stance_detection",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-stance-detection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2582,
-    "timeDay": 2379,
+    "timeDay": 2369,
     "timeWeek": 2426,
     "timeMonth": 2481,
     "timeYear": 2582,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /claim_detection",
     "url": "https://api.factiverse.no/0.1.0/claim_detection",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-claim-detection",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1635,
-    "timeDay": 351,
+    "timeDay": 348,
     "timeWeek": 361,
     "timeMonth": 1350,
     "timeYear": 1635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /fact_check",
     "url": "https://api.factiverse.no/0.1.0/fact_check",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-fact-check",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.96%",
     "time": 8577,
-    "timeDay": 7151,
-    "timeWeek": 7172,
+    "timeDay": 7153,
+    "timeWeek": 7170,
     "timeMonth": 8062,
     "timeYear": 8577,
     "dailyMinutesDown": {
+      "2021-11-25": 0,
       "2021-11-12": 52
     }
   },
@@ -114,36 +125,40 @@
     "url": "https://api.factiverse.no/0.1.0/search",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-search",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 749,
-    "timeDay": 668,
-    "timeWeek": 719,
+    "timeDay": 669,
+    "timeWeek": 720,
     "timeMonth": 728,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /feedback",
     "url": "https://api.factiverse.no/0.1.0/feedback",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-feedback",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 299,
-    "timeWeek": 308,
+    "timeDay": 296,
+    "timeWeek": 309,
     "timeMonth": 313,
     "timeYear": 311,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "POST to /auth/register",
@@ -157,12 +172,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 349,
-    "timeDay": 337,
+    "timeDay": 334,
     "timeWeek": 349,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-11-25": 366,
+      "2021-11-25": 422,
       "2021-11-24": 1440,
       "2021-11-23": 1440,
       "2021-11-22": 1440,
