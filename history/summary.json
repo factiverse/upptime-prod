@@ -13,7 +13,7 @@
     "time": 501,
     "timeDay": 495,
     "timeWeek": 489,
-    "timeMonth": 498,
+    "timeMonth": 497,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2021-11-25": 480
@@ -70,11 +70,11 @@
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.67%",
-    "time": 2574,
-    "timeDay": 2464,
-    "timeWeek": 2432,
-    "timeMonth": 2480,
-    "timeYear": 2574,
+    "time": 2573,
+    "timeDay": 2466,
+    "timeWeek": 2430,
+    "timeMonth": 2479,
+    "timeYear": 2573,
     "dailyMinutesDown": {
       "2021-11-25": 480
     }
@@ -90,11 +90,11 @@
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.67%",
-    "time": 1540,
+    "time": 1538,
     "timeDay": 369,
-    "timeWeek": 364,
-    "timeMonth": 1258,
-    "timeYear": 1540,
+    "timeWeek": 363,
+    "timeMonth": 1249,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2021-11-25": 480
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.63%",
-    "time": 8490,
-    "timeDay": 7382,
-    "timeWeek": 7201,
-    "timeMonth": 7999,
-    "timeYear": 8490,
+    "time": 8488,
+    "timeDay": 7399,
+    "timeWeek": 7203,
+    "timeMonth": 7994,
+    "timeYear": 8488,
     "dailyMinutesDown": {
       "2021-11-25": 481,
       "2021-11-12": 52
@@ -132,8 +132,8 @@
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.67%",
     "time": 750,
-    "timeDay": 746,
-    "timeWeek": 729,
+    "timeDay": 749,
+    "timeWeek": 728,
     "timeMonth": 731,
     "timeYear": 750,
     "dailyMinutesDown": {
@@ -154,7 +154,7 @@
     "time": 312,
     "timeDay": 314,
     "timeWeek": 310,
-    "timeMonth": 314,
+    "timeMonth": 313,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2021-11-25": 481
@@ -173,11 +173,11 @@
     "uptimeYear": "0.00%",
     "time": 350,
     "timeDay": 351,
-    "timeWeek": 350,
+    "timeWeek": 349,
     "timeMonth": 350,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2021-11-26": 1326,
+      "2021-11-26": 1386,
       "2021-11-25": 1440,
       "2021-11-24": 1440,
       "2021-11-23": 1440,
