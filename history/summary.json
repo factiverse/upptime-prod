@@ -11,8 +11,8 @@
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.68%",
     "time": 503,
-    "timeDay": 555,
-    "timeWeek": 500,
+    "timeDay": 554,
+    "timeWeek": 501,
     "timeMonth": 501,
     "timeYear": 503,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.68%",
     "time": 319,
     "timeDay": 300,
-    "timeWeek": 309,
+    "timeWeek": 310,
     "timeMonth": 313,
     "timeYear": 319,
     "dailyMinutesDown": {
@@ -71,8 +71,8 @@
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.68%",
     "time": 2549,
-    "timeDay": 2424,
-    "timeWeek": 2421,
+    "timeDay": 2419,
+    "timeWeek": 2422,
     "timeMonth": 2466,
     "timeYear": 2549,
     "dailyMinutesDown": {
@@ -90,11 +90,11 @@
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.68%",
-    "time": 1367,
+    "time": 1365,
     "timeDay": 353,
-    "timeWeek": 362,
-    "timeMonth": 1083,
-    "timeYear": 1367,
+    "timeWeek": 363,
+    "timeMonth": 1081,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2021-11-25": 480
     }
@@ -110,11 +110,11 @@
     "uptimeWeek": "95.23%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.64%",
-    "time": 8326,
-    "timeDay": 7310,
-    "timeWeek": 7275,
-    "timeMonth": 7873,
-    "timeYear": 8326,
+    "time": 8324,
+    "timeDay": 7302,
+    "timeWeek": 7278,
+    "timeMonth": 7871,
+    "timeYear": 8324,
     "dailyMinutesDown": {
       "2021-11-25": 481,
       "2021-11-12": 52
@@ -132,8 +132,8 @@
     "uptimeMonth": "98.90%",
     "uptimeYear": "99.68%",
     "time": 744,
-    "timeDay": 687,
-    "timeWeek": 721,
+    "timeDay": 692,
+    "timeWeek": 722,
     "timeMonth": 728,
     "timeYear": 744,
     "dailyMinutesDown": {
@@ -153,7 +153,7 @@
     "uptimeYear": "99.65%",
     "time": 312,
     "timeDay": 300,
-    "timeWeek": 309,
+    "timeWeek": 310,
     "timeMonth": 313,
     "timeYear": 312,
     "dailyMinutesDown": {
@@ -177,7 +177,7 @@
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-11-30": 246,
+      "2021-11-30": 306,
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
