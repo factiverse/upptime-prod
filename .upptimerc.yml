@@ -5,14 +5,14 @@ repo: api-upptime # The name of this repository
 sites:
   - name: GET to /dummy
     url: https://api.factiverse.no/0.1.0/dummy
-  - name: POST to dummy
+  - name: POST to /dummy
     url: https://api.factiverse.no/0.1.0/dummy
     method: POST
     headers:
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"lang": "en"}'
-  - name: POST to /bias_Detection
+  - name: POST to /bias_detection
     url: https://api.factiverse.no/0.1.0/bias_detection
     method: POST
     headers:
@@ -54,13 +54,13 @@ sites:
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
-  - name: POST to /auth/register
-    url: https://api.factiverse.no/0.1.0/auth/register
+  - name: POST to /auth/login
+    url: https://api.factiverse.no/0.1.0/auth/login
     method: POST
     headers:
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"email": "test@gmail.com", "name": "Ola Normann", "password": "strongpassword", "logging": "false"}'
+    body: '{"email": "mail@gmail.com", "password": "strongpassword"}'
 
 workflowSchedule:
   graphs: "*/60 * * * *"
