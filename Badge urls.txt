@@ -1,0 +1,41 @@
+Example Badge
+
+![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/factiverse/api-upptime/master/api/fet-to-dummy/uptime.json)
+
+Badge urls
+
+get to dummy
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/get-to-dummy/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/get-to-dummy/uptime.json
+
+post to dummy
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-dummy/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-dummy/uptime.json
+
+post to auth login
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-auth-login/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-auth-login/uptime.json
+
+post to bias detection
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-bias-detection/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-bias-detection/uptime.json
+
+post to claim detection
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-claim-detection/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-claim-detection/uptime.json
+
+post to fact check
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-fact-check/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-fact-check/uptime.json
+
+post to feedback
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-feedback/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-feedback/uptime.json
+
+post to search
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-search/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-search/uptime.json
+
+post to stance detection
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-stance-detection/response-time.json
+https://raw.githubusercontent.com/factiverse/api-upptime/master/api/post-to-stance-detection/uptime.json
