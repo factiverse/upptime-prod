@@ -1,5 +1,5 @@
 ---
-name: Scheduled Maintenance
+name: Scheduled Maintenance on api.factiverse.no
 about: There is work being done that is affecting the endpoints
 title: ''
 labels: 'maintenance'
@@ -7,7 +7,7 @@ labels: 'maintenance'
 ---
 
 **Describe the maintenance**
-All endpoints will be down.
+All endpoints will be down. Our products won't be available during this time frame.
 
 **At what time is the maintenance planned?**
 start:
