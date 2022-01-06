@@ -22,6 +22,9 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
     maxResponseTime: 1500
+    headers:
+    - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+    - "Content-Type: application/json"
   - name: POST to /stance_detection
     url: https://api.factiverse.no/0.1.0/stance_detection
     method: POST
@@ -38,6 +41,9 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
     maxResponseTime: 1500
+    headers:
+    - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+    - "Content-Type: application/json"
   - name: POST to /fact_check
     url: https://api.factiverse.no/0.1.0/fact_check
     method: POST
@@ -46,6 +52,9 @@ sites:
       - "Content-Type: application/json"
     body: '{"claims": ["The earth is flat."], "domainsToSearch": ["news"], "lang": "en", "text": "The director of Afghanistans media and information centre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed by gunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "url": "https://www.bbc.com/news/world-asia-58112981", "logging": false}'
     maxResponseTime: 20000
+    headers:
+    - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+    - "Content-Type: application/json"
   - name: POST to /search
     url: https://api.factiverse.no/0.1.0/search
     method: POST
@@ -54,6 +63,9 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "query": "The earth is not flat.", "searchEngine": ["google"], "logging": false}'
     maxResponseTime: 1500
+    headers:
+    - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+    - "Content-Type: application/json"
   - name: POST to /feedback
     url: https://api.factiverse.no/0.1.0/feedback
     method: POST
