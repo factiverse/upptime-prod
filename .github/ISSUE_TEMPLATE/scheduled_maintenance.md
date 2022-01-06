@@ -13,6 +13,9 @@ All endpoints will be down.
 start:
 end:
 
+**Add the maintenance info as a comment for Upptime to parse, dates in ISO format and all affected endpoints**
+Follow [this guide](https://upptime.js.org/docs/scheduled-maintenance).
+
 <!--
 start: 2022-01-06T13:30:00Z
 end: 2022-01-06T16:30:00Z
