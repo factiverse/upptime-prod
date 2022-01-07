@@ -89,7 +89,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /api-upptime
+  baseUrl: /upptime-prod
   logoUrl: https://raw.githubusercontent.com/factiverse/api-upptime/master/assets/Factiverse%20Logo.png
   name: Factiverse Systems Status
   introTitle: "**Factiverse** Systems Status**"
