@@ -1,7 +1,7 @@
 url: https://api.factiverse.no/v1/search
-status: down
-code: 401
-responseTime: 291
-lastUpdated: 2022-01-07T13:27:53.913Z
+status: up
+code: 200
+responseTime: 1054
+lastUpdated: 2022-01-07T13:40:59.535Z
 startTime: Fri Jan 07 2022 12:25:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
