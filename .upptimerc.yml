@@ -18,7 +18,7 @@ sites:
     url: https://api.factiverse.no/v1/bias_detection
     method: POST
     headers:
-      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
@@ -35,7 +35,7 @@ sites:
     url: https://api.factiverse.no/0.1.0/claim_detection
     method: POST
     headers:
-      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
@@ -44,7 +44,7 @@ sites:
     url: https://api.factiverse.no/v1/fact_check
     method: POST
     headers:
-      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"claims": ["The earth is flat."], "domainsToSearch": ["news"], "lang": "en", "text": "The director of Afghanistans media and information centre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed by gunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "url": "https://www.bbc.com/news/world-asia-58112981", "logging": false}'
@@ -53,7 +53,7 @@ sites:
     url: https://api.factiverse.no/v1/search
     method: POST
     headers:
-      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"lang": "en", "query": "The earth is not flat.", "searchEngine": ["google"], "logging": false}'
