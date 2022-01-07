@@ -32,7 +32,7 @@ sites:
     body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
     maxResponseTime: 10000
   - name: POST to /claim_detection
-    url: https://api.factiverse.no/0.1.0/claim_detection
+    url: https://api.factiverse.no/v1/claim_detection
     method: POST
     headers:
       - "Authorization: Bearer $API_TOKEN"
@@ -62,6 +62,7 @@ sites:
     url: https://api.factiverse.no/v1/feedback
     method: POST
     headers:
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
