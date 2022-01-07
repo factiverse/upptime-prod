@@ -1,8 +1,8 @@
 [
   {
     "name": "GET to /dummy",
-    "url": "https://api.factiverse.no/v1/dummy",
-    "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
+    "url": "https://dev.factiverse.no/v1/dummy",
+    "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "get-to-dummy",
     "status": "down",
     "uptime": "99.72%",
@@ -38,7 +38,7 @@
     "timeMonth": 309,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2021-12-01": 82,
       "2021-11-25": 480
@@ -61,7 +61,7 @@
     "timeMonth": 315,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2021-12-01": 82,
       "2021-11-25": 480
@@ -84,7 +84,7 @@
     "timeMonth": 2378,
     "timeYear": 2457,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2021-12-01": 82,
       "2021-11-25": 480
@@ -107,7 +107,7 @@
     "timeMonth": 361,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2021-12-01": 82,
       "2021-11-25": 480
@@ -130,7 +130,7 @@
     "timeMonth": 7078,
     "timeYear": 7609,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2021-12-01": 82,
       "2021-11-25": 481,
@@ -154,7 +154,7 @@
     "timeMonth": 700,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2022-01-04": 66,
       "2021-12-01": 82,
@@ -178,7 +178,7 @@
     "timeMonth": 325,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 16,
       "2022-01-04": 65,
       "2021-12-01": 82,
@@ -202,7 +202,7 @@
     "timeMonth": 348,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2022-01-07": 1,
+      "2022-01-07": 7,
       "2022-01-06": 15
     }
   }
