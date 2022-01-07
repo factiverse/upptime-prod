@@ -6,6 +6,74 @@ sites:
   - name: GET to /dummy
     url: https://api.factiverse.no/v1/dummy
     maxResponseTime: 1500
+  - name: POST to /dummy
+    url: https://api.factiverse.no/v1/dummy
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en"}'
+    maxResponseTime: 1500
+  - name: POST to /bias_detection
+    url: https://api.factiverse.no/v1/bias_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
+    maxResponseTime: 1500
+  - name: POST to /stance_detection
+    url: https://api.factiverse.no/v1/stance_detection
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
+    maxResponseTime: 10000
+  - name: POST to /claim_detection
+    url: https://api.factiverse.no/0.1.0/claim_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
+    maxResponseTime: 1500
+  - name: POST to /fact_check
+    url: https://api.factiverse.no/v1/fact_check
+    method: POST
+    headers:
+      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"claims": ["The earth is flat."], "domainsToSearch": ["news"], "lang": "en", "text": "The director of Afghanistans media and information centre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed by gunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "url": "https://www.bbc.com/news/world-asia-58112981", "logging": false}'
+    maxResponseTime: 20000
+  - name: POST to /search
+    url: https://api.factiverse.no/v1/search
+    method: POST
+    headers:
+      - "Authorization: Bearer ${{ secrets.API_TOKEN }}"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "query": "The earth is not flat.", "searchEngine": ["google"], "logging": false}'
+    maxResponseTime: 1500
+  - name: POST to /feedback
+    url: https://api.factiverse.no/v1/feedback
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
+    maxResponseTime: 1500
+  - name: POST to /auth/login
+    url: https://api.factiverse.no/v1/auth/login
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"email": "mail@gmail.com", "password": "strongpassword"}'
+    maxResponseTime: 1500
 
 workflowSchedule:
   graphs: "*/60 * * * *"
