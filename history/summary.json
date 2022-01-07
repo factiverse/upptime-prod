@@ -1,7 +1,7 @@
 [
   {
     "name": "GET to /dummy",
-    "url": "https://api.factiverse.no/0.1.0/dummy",
+    "url": "https://api.factiverse.no/v1/dummy",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "get-to-dummy",
     "status": "down",
@@ -23,7 +23,7 @@
   },
   {
     "name": "POST to /dummy",
-    "url": "https://api.factiverse.no/0.1.0/dummy",
+    "url": "https://api.factiverse.no/v1/dummy",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-dummy",
     "status": "down",
@@ -45,7 +45,7 @@
   },
   {
     "name": "POST to /bias_detection",
-    "url": "https://api.factiverse.no/0.1.0/bias_detection",
+    "url": "https://api.factiverse.no/v1/bias_detection",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-bias-detection",
     "status": "down",
@@ -67,7 +67,7 @@
   },
   {
     "name": "POST to /stance_detection",
-    "url": "https://api.factiverse.no/0.1.0/stance_detection",
+    "url": "https://api.factiverse.no/v1/stance_detection",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-stance-detection",
     "status": "down",
@@ -111,7 +111,7 @@
   },
   {
     "name": "POST to /fact_check",
-    "url": "https://api.factiverse.no/0.1.0/fact_check",
+    "url": "https://api.factiverse.no/v1/fact_check",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-fact-check",
     "status": "down",
@@ -134,7 +134,7 @@
   },
   {
     "name": "POST to /search",
-    "url": "https://api.factiverse.no/0.1.0/search",
+    "url": "https://api.factiverse.no/v1/search",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-search",
     "status": "down",
@@ -157,7 +157,7 @@
   },
   {
     "name": "POST to /feedback",
-    "url": "https://api.factiverse.no/0.1.0/feedback",
+    "url": "https://api.factiverse.no/v1/feedback",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-feedback",
     "status": "down",
@@ -180,7 +180,7 @@
   },
   {
     "name": "POST to /auth/login",
-    "url": "https://api.factiverse.no/0.1.0/auth/login",
+    "url": "https://api.factiverse.no/v1/auth/login",
     "icon": "https://favicons.githubusercontent.com/api.factiverse.no",
     "slug": "post-to-auth-login",
     "status": "down",
