@@ -79,7 +79,7 @@ sites:
 workflowSchedule:
   graphs: "*/60 * * * *"
   responseTime: "*/60 * * * *"
-  staticSite: "0 0 * * *"
+  staticSite: "*/60 * * * *"
   summary: "*/60 * * * *"
   updateTemplate: "*/60 * * * *"
   updates: "*/60 * * * *"
