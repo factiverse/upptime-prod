@@ -1,7 +1,7 @@
 url: https://api.factiverse.no/v1/auth/login
 status: up
 code: 200
-responseTime: 268
-lastUpdated: 2022-10-24T20:03:05.210Z
+responseTime: 213
+lastUpdated: 2022-10-24T21:03:18.098Z
 startTime: Mon Aug 22 2022 15:13:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
