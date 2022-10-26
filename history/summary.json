@@ -6,17 +6,17 @@
     "slug": "get-to-api-factiverse-no-v1-dummy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 712,
-    "timeDay": 697,
-    "timeWeek": 711,
+    "timeDay": 703,
+    "timeWeek": 712,
     "timeMonth": 700,
     "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-10-26": 0
+      "2022-10-26": 4
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "post-to-api-factiverse-no-v1-dummy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 125,
-    "timeDay": 121,
+    "timeDay": 122,
     "timeWeek": 125,
     "timeMonth": 124,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-10-26": 0
+      "2022-10-26": 4
     }
   },
   {
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 660,
-    "timeWeek": 693,
+    "timeDay": 667,
+    "timeWeek": 694,
     "timeMonth": 693,
     "timeYear": 701,
     "dailyMinutesDown": {}
@@ -64,17 +64,17 @@
     "slug": "post-to-api-factiverse-no-v1-stance-detection",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 4225,
-    "timeDay": 3369,
-    "timeWeek": 3540,
-    "timeMonth": 4314,
-    "timeYear": 4225,
+    "time": 4222,
+    "timeDay": 3245,
+    "timeWeek": 3520,
+    "timeMonth": 4308,
+    "timeYear": 4222,
     "dailyMinutesDown": {
-      "2022-10-26": 0
+      "2022-10-26": 4
     }
   },
   {
@@ -84,17 +84,17 @@
     "slug": "post-to-api-factiverse-no-v1-auth-login",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 227,
-    "timeWeek": 232,
+    "timeDay": 224,
+    "timeWeek": 231,
     "timeMonth": 171,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2022-10-26": 1
+      "2022-10-26": 4
     }
   }
 ]
