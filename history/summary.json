@@ -6,17 +6,17 @@
     "slug": "get-to-api-factiverse-no-v1-dummy",
     "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "33.17%",
-    "uptimeWeek": "90.45%",
+    "uptimeDay": "33.06%",
+    "uptimeWeek": "90.44%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.98%",
     "time": 719,
     "timeDay": 1129,
-    "timeWeek": 774,
+    "timeWeek": 775,
     "timeMonth": 715,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2022-10-27": 663,
+      "2022-10-27": 665,
       "2022-10-26": 299
     }
   },
@@ -27,8 +27,8 @@
     "slug": "post-to-api-factiverse-no-v1-dummy",
     "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "33.17%",
-    "uptimeWeek": "90.45%",
+    "uptimeDay": "33.05%",
+    "uptimeWeek": "90.44%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.98%",
     "time": 131,
@@ -37,7 +37,7 @@
     "timeMonth": 138,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2022-10-27": 663,
+      "2022-10-27": 665,
       "2022-10-26": 299
     }
   },
@@ -66,17 +66,17 @@
     "slug": "post-to-api-factiverse-no-v1-stance-detection",
     "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "33.16%",
-    "uptimeWeek": "90.45%",
+    "uptimeDay": "33.03%",
+    "uptimeWeek": "90.43%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.98%",
     "time": 4187,
     "timeDay": 1504,
-    "timeWeek": 3209,
+    "timeWeek": 3208,
     "timeMonth": 4225,
     "timeYear": 4187,
     "dailyMinutesDown": {
-      "2022-10-27": 663,
+      "2022-10-27": 665,
       "2022-10-26": 299
     }
   },
@@ -87,8 +87,8 @@
     "slug": "post-to-api-factiverse-no-v1-auth-login",
     "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "33.15%",
-    "uptimeWeek": "90.45%",
+    "uptimeDay": "33.02%",
+    "uptimeWeek": "90.43%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "98.98%",
     "time": 169,
@@ -97,7 +97,7 @@
     "timeMonth": 184,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2022-10-27": 664,
+      "2022-10-27": 665,
       "2022-10-26": 299
     }
   }
