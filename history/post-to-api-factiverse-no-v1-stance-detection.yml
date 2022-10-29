@@ -1,7 +1,7 @@
 url: https://api.factiverse.no/v1/stance_detection
 status: degraded
 code: 504
-responseTime: 10092
-lastUpdated: 2022-10-29T05:08:26.522Z
+responseTime: 10121
+lastUpdated: 2022-10-29T06:04:39.810Z
 startTime: Mon Aug 22 2022 15:13:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
