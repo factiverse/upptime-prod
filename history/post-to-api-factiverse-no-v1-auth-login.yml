@@ -1,7 +1,7 @@
 url: https://api.factiverse.no/v1/auth/login
 status: degraded
 code: 504
-responseTime: 10160
-lastUpdated: 2022-10-31T21:04:58.361Z
+responseTime: 10126
+lastUpdated: 2022-10-31T22:04:53.494Z
 startTime: Mon Aug 22 2022 15:13:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
