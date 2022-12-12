@@ -100,8 +100,8 @@
     "slug": "post-to-api-factiverse-no-v1-stance-detection",
     "status": "down",
     "uptime": "89.75%",
-    "uptimeDay": "91.99%",
-    "uptimeWeek": "98.86%",
+    "uptimeDay": "91.90%",
+    "uptimeWeek": "98.84%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "89.75%",
     "time": 4959,
@@ -110,7 +110,7 @@
     "timeMonth": 6150,
     "timeYear": 4959,
     "dailyMinutesDown": {
-      "2022-12-12": 115,
+      "2022-12-12": 117,
       "2022-11-28": 60,
       "2022-11-23": 58,
       "2022-11-17": 60,
@@ -149,7 +149,7 @@
     "timeMonth": 146,
     "timeYear": 661,
     "dailyMinutesDown": {
-      "2022-12-12": 964,
+      "2022-12-12": 966,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
