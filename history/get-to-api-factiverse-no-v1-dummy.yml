@@ -1,7 +1,7 @@
 url: https://api.factiverse.no/v1/dummy
-status: down
-code: 502
-responseTime: 778
-lastUpdated: 2023-01-17T06:02:58.974Z
+status: degraded
+code: 504
+responseTime: 10720
+lastUpdated: 2023-01-17T07:01:47.694Z
 startTime: Mon Aug 22 2022 15:13:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
