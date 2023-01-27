@@ -16,7 +16,7 @@
     "timeMonth": 872,
     "timeYear": 1118,
     "dailyMinutesDown": {
-      "2023-01-27": 91,
+      "2023-01-27": 93,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -99,7 +99,7 @@
     "timeMonth": 253,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2023-01-27": 91,
+      "2023-01-27": 93,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
@@ -192,8 +192,8 @@
     "slug": "post-to-api-factiverse-no-v1-stance-detection",
     "status": "up",
     "uptime": "64.38%",
-    "uptimeDay": "4.30%",
-    "uptimeWeek": "0.61%",
+    "uptimeDay": "4.44%",
+    "uptimeWeek": "0.63%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "64.38%",
     "time": 3682,
@@ -287,7 +287,7 @@
     "timeMonth": 387,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2023-01-27": 92,
+      "2023-01-27": 94,
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
