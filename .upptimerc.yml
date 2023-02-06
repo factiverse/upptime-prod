@@ -6,6 +6,15 @@ sites:
   - name: GET /statistics/claim_search
     url: https://search.factiverse.no/v1/statistics/claim_search
     maxResponseTime: 1500
+  - name: POST /bias_detection
+    url: https://search.factiverse.no/v1/bias_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
+    maxResponseTime: 1500
 #   - name: GET to api.factiverse.no/v1/dummy
 #     url: https://api.factiverse.no/v1/dummy
 #     maxResponseTime: 1500
