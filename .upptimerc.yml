@@ -6,20 +6,20 @@ sites:
     - name: GET /statistics/claim_search
     url: https://search.factiverse.no/v1/statistics/claim_search
     maxResponseTime: 1500
-  # - name: GET to api.factiverse.no/v1/dummy
-  #   url: https://api.factiverse.no/v1/dummy
-  #   maxResponseTime: 1500
-  # - name: POST to api.factiverse.no/v1/dummy
-  #   url: https://api.factiverse.no/v1/dummy
-  #   method: POST
-  #   headers:
-  #     - "accept: application/json"
-  #     - "Content-Type: application/json"
-  #   body: '{"lang": "en"}'
-  #   maxResponseTime: 1500
-  # - name: GET to tenk-citrus2177.factiverse.no/v1/dummy
-  #   url: https://tenk-citrus2177.factiverse.no/v1/dummy
-  #   maxResponseTime: 1500
+#   - name: GET to api.factiverse.no/v1/dummy
+#     url: https://api.factiverse.no/v1/dummy
+#     maxResponseTime: 1500
+#   - name: POST to api.factiverse.no/v1/dummy
+#     url: https://api.factiverse.no/v1/dummy
+#     method: POST
+#     headers:
+#       - "accept: application/json"
+#       - "Content-Type: application/json"
+#     body: '{"lang": "en"}'
+#     maxResponseTime: 1500
+#   - name: GET to tenk-citrus2177.factiverse.no/v1/dummy
+#     url: https://tenk-citrus2177.factiverse.no/v1/dummy
+#     maxResponseTime: 1500
 #   - name: POST to api.factiverse.no/v1/bias_detection
 #     url: https://api.factiverse.no/v1/bias_detection
 #     method: POST
@@ -29,14 +29,14 @@ sites:
 #       - "Content-Type: application/json"
 #     body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
 #     maxResponseTime: 1500
-  # - name: POST to api.factiverse.no/v1/stance_detection
-  #   url: https://api.factiverse.no/v1/stance_detection
-  #   method: POST
-  #   headers:
-  #     - "accept: application/json"
-  #     - "Content-Type: application/json"
-  #   body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
-  #   maxResponseTime: 10000
+#   - name: POST to api.factiverse.no/v1/stance_detection
+#     url: https://api.factiverse.no/v1/stance_detection
+#     method: POST
+#     headers:
+#       - "accept: application/json"
+#       - "Content-Type: application/json"
+#     body: '{"claim": "The earth is not flat.", "lang": "en", "logging": false}'
+#    maxResponseTime: 10000
 #   - name: POST to api.factiverse.no/v1/claim_detection
 #     url: https://api.factiverse.no/v1/claim_detection
 #     method: POST
@@ -73,14 +73,14 @@ sites:
 #       - "Content-Type: application/json"
 #     body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
 #     maxResponseTime: 1500
-  # - name: POST to api.factiverse.no/v1/auth/login
-  #   url: https://api.factiverse.no/v1/auth/login
-  #   method: POST
-  #   headers:
-  #     - "accept: application/json"
-  #     - "Content-Type: application/json"
-  #   body: '{"email": "mail@gmail.com", "password": "strongpassword"}'
-  #   maxResponseTime: 1500
+#   - name: POST to api.factiverse.no/v1/auth/login
+#     url: https://api.factiverse.no/v1/auth/login
+#     method: POST
+#     headers:
+#       - "accept: application/json"
+#       - "Content-Type: application/json"
+#     body: '{"email": "mail@gmail.com", "password": "strongpassword"}'
+#     maxResponseTime: 1500
 
 workflowSchedule:
   graphs: "*/60 * * * *"
