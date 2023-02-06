@@ -3,7 +3,7 @@ owner: factiverse # Your GitHub organization or username, where this repository 
 repo: upptime-prod # The name of this repository
 
 sites:
-    - name: GET /statistics/claim_search
+  - name: GET /statistics/claim_search
     url: https://search.factiverse.no/v1/statistics/claim_search
     maxResponseTime: 1500
 #   - name: GET to api.factiverse.no/v1/dummy
