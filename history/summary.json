@@ -5,18 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "get-statistics-claim-search",
     "status": "degraded",
-    "uptime": "74.06%",
-    "uptimeDay": "74.06%",
-    "uptimeWeek": "74.06%",
-    "uptimeMonth": "74.06%",
-    "uptimeYear": "74.06%",
-    "time": 6604,
-    "timeDay": 6604,
-    "timeWeek": 6604,
-    "timeMonth": 6604,
-    "timeYear": 6604,
+    "uptime": "3.42%",
+    "uptimeDay": "3.42%",
+    "uptimeWeek": "3.42%",
+    "uptimeMonth": "3.42%",
+    "uptimeYear": "3.42%",
+    "time": 6715,
+    "timeDay": 6715,
+    "timeWeek": 6715,
+    "timeMonth": 6715,
+    "timeYear": 6715,
     "dailyMinutesDown": {
-      "2023-02-06": 0
+      "2023-02-06": 9
     }
+  },
+  {
+    "name": "POST /bias_detection",
+    "url": "https://search.factiverse.no/v1/bias_detection",
+    "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
+    "slug": "post-bias-detection",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 148,
+    "timeDay": 148,
+    "timeWeek": 148,
+    "timeMonth": 148,
+    "timeYear": 148,
+    "dailyMinutesDown": {}
   }
 ]
