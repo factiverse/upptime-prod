@@ -5,6 +5,7 @@ repo: upptime-prod # The name of this repository
 sites:
   - name: /statistics/claim_search
     url: https://search.factiverse.no/v1/statistics/claim_search
+    method: GET
     maxResponseTime: 5000
   - name: /bias_detection
     url: https://search.factiverse.no/v1/bias_detection
@@ -32,8 +33,8 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
     maxResponseTime: 1500
-  - name: POST to api.factiverse.no/v1/search
-    url: https://api.factiverse.no/v1/search
+  - name: /search
+    url: https://search.factiverse.no/v1/search
     method: POST
     headers:
       - "Authorization: Bearer $API_TOKEN"
