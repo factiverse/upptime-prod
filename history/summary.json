@@ -4,19 +4,19 @@
     "url": "https://search.factiverse.no/v1/statistics/claim_search",
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "statistics-claim-search",
-    "status": "degraded",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
-    "time": 6738,
-    "timeDay": 6738,
-    "timeWeek": 6738,
-    "timeMonth": 6738,
-    "timeYear": 6738,
+    "status": "up",
+    "uptime": "2.76%",
+    "uptimeDay": "2.76%",
+    "uptimeWeek": "2.76%",
+    "uptimeMonth": "2.76%",
+    "uptimeYear": "2.76%",
+    "time": 6776,
+    "timeDay": 6776,
+    "timeWeek": 6776,
+    "timeMonth": 6776,
+    "timeYear": 6776,
     "dailyMinutesDown": {
-      "2023-02-06": 136
+      "2023-02-06": 147
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 167,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "stance-detection",
     "status": "degraded",
-    "uptime": "0.85%",
-    "uptimeDay": "0.85%",
-    "uptimeWeek": "0.85%",
-    "uptimeMonth": "0.85%",
-    "uptimeYear": "0.85%",
-    "time": 19262,
-    "timeDay": 19262,
-    "timeWeek": 19262,
-    "timeMonth": 19262,
-    "timeYear": 19262,
+    "uptime": "0.77%",
+    "uptimeDay": "0.77%",
+    "uptimeWeek": "0.77%",
+    "uptimeMonth": "0.77%",
+    "uptimeYear": "0.77%",
+    "time": 20223,
+    "timeDay": 20223,
+    "timeWeek": 20223,
+    "timeMonth": 20223,
+    "timeYear": 20223,
     "dailyMinutesDown": {
-      "2023-02-06": 135
+      "2023-02-06": 150
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "53.31%",
-    "uptimeDay": "53.31%",
-    "uptimeWeek": "53.31%",
-    "uptimeMonth": "53.31%",
-    "uptimeYear": "53.31%",
-    "time": 180,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "uptime": "47.90%",
+    "uptimeDay": "47.90%",
+    "uptimeWeek": "47.90%",
+    "uptimeMonth": "47.90%",
+    "uptimeYear": "47.90%",
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2023-02-06": 63
+      "2023-02-06": 78
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://search.factiverse.no/v1/search",
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "search",
-    "status": "degraded",
-    "uptime": "0.48%",
-    "uptimeDay": "0.48%",
-    "uptimeWeek": "0.48%",
-    "uptimeMonth": "0.48%",
-    "uptimeYear": "0.48%",
-    "time": 8734,
-    "timeDay": 8734,
-    "timeWeek": 8734,
-    "timeMonth": 8734,
-    "timeYear": 8734,
+    "status": "up",
+    "uptime": "2.90%",
+    "uptimeDay": "2.90%",
+    "uptimeWeek": "2.90%",
+    "uptimeMonth": "2.90%",
+    "uptimeYear": "2.90%",
+    "time": 8684,
+    "timeDay": 8684,
+    "timeWeek": 8684,
+    "timeMonth": 8684,
+    "timeYear": 8684,
     "dailyMinutesDown": {
-      "2023-02-06": 90
+      "2023-02-06": 102
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "fact-check",
     "status": "down",
-    "uptime": "1.56%",
-    "uptimeDay": "1.56%",
-    "uptimeWeek": "1.56%",
-    "uptimeMonth": "1.56%",
-    "uptimeYear": "1.56%",
+    "uptime": "1.35%",
+    "uptimeDay": "1.35%",
+    "uptimeWeek": "1.35%",
+    "uptimeMonth": "1.35%",
+    "uptimeYear": "1.35%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-06": 95
+      "2023-02-06": 110
     }
   },
   {
@@ -123,17 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "feedback",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 125,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
-    "dailyMinutesDown": {}
+    "uptime": "89.71%",
+    "uptimeDay": "89.71%",
+    "uptimeWeek": "89.71%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "89.71%",
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
+    "dailyMinutesDown": {
+      "2023-02-06": 11
+    }
   },
   {
     "name": "/microfacts",
@@ -141,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "34.75%",
-    "uptimeDay": "34.75%",
-    "uptimeWeek": "34.75%",
-    "uptimeMonth": "34.75%",
-    "uptimeYear": "34.75%",
-    "time": 1534,
-    "timeDay": 1534,
-    "timeWeek": 1534,
-    "timeMonth": 1534,
-    "timeYear": 1534,
+    "uptime": "29.96%",
+    "uptimeDay": "29.96%",
+    "uptimeWeek": "29.96%",
+    "uptimeMonth": "29.96%",
+    "uptimeYear": "29.96%",
+    "time": 1588,
+    "timeDay": 1588,
+    "timeWeek": 1588,
+    "timeMonth": 1588,
+    "timeYear": 1588,
     "dailyMinutesDown": {
-      "2023-02-06": 62
+      "2023-02-06": 77
     }
   },
   {
@@ -161,18 +163,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "claim-search",
     "status": "down",
-    "uptime": "33.70%",
-    "uptimeDay": "33.70%",
-    "uptimeWeek": "33.70%",
-    "uptimeMonth": "33.70%",
-    "uptimeYear": "33.70%",
+    "uptime": "39.34%",
+    "uptimeDay": "39.34%",
+    "uptimeWeek": "39.34%",
+    "uptimeMonth": "39.34%",
+    "uptimeYear": "39.34%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-02-06": 63
+      "2023-02-06": 67
     }
   }
 ]
