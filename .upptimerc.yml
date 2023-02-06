@@ -22,7 +22,7 @@ sites:
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"claim": "Donald Trump won the 2020 election.", "lang": "en", "logging": false}'
-   maxResponseTime: 3000
+    maxResponseTime: 3000
   - name: /claim_detection
     url: https://search.factiverse.no/v1/claim_detection
     method: POST
