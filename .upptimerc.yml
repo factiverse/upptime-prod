@@ -49,7 +49,7 @@ sites:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"logging": false, "lang": "en", "collection": "test", "claims": ["The earth is flat."], "url": "https://www.bbc.com/news/world-asia-58112981", "text": "The director of Afghanistans media and informationcentre has been assassinated by Taliban militants inthe capital, Kabul. Dawa Khan Menapal was killed bygunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "domainsToSearch": [ "news", "encyclopedia", "research", "social_media"]}'
+    body: '{"logging": false, "lang": "en", "collection": "test", "claims": ["The earth is flat."], "url": "https://www.bbc.com/news/world-asia-58112981", "text": "The director of Afghanistans media and informationcentre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed bygunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "domainsToSearch": ["news"]}'
     maxResponseTime: 60000
   - name: /feedback
     url: https://search.factiverse.no/v1/feedback
