@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "statistics-claim-search",
     "status": "degraded",
-    "uptime": "0.30%",
-    "uptimeDay": "0.30%",
-    "uptimeWeek": "0.30%",
-    "uptimeMonth": "0.30%",
-    "uptimeYear": "0.30%",
+    "uptime": "0.23%",
+    "uptimeDay": "0.23%",
+    "uptimeWeek": "0.23%",
+    "uptimeMonth": "0.23%",
+    "uptimeYear": "0.23%",
     "time": 6738,
     "timeDay": 6738,
     "timeWeek": 6738,
     "timeMonth": 6738,
     "timeYear": 6738,
     "dailyMinutesDown": {
-      "2023-02-06": 105
+      "2023-02-06": 136
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "stance-detection",
     "status": "degraded",
-    "uptime": "1.08%",
-    "uptimeDay": "1.08%",
-    "uptimeWeek": "1.08%",
-    "uptimeMonth": "1.08%",
-    "uptimeYear": "1.08%",
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
     "time": 19262,
     "timeDay": 19262,
     "timeWeek": 19262,
     "timeMonth": 19262,
     "timeYear": 19262,
     "dailyMinutesDown": {
-      "2023-02-06": 104
+      "2023-02-06": 135
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "68.86%",
-    "uptimeDay": "68.86%",
-    "uptimeWeek": "68.86%",
-    "uptimeMonth": "68.86%",
-    "uptimeYear": "68.86%",
+    "uptime": "53.31%",
+    "uptimeDay": "53.31%",
+    "uptimeWeek": "53.31%",
+    "uptimeMonth": "53.31%",
+    "uptimeYear": "53.31%",
     "time": 180,
     "timeDay": 180,
     "timeWeek": 180,
     "timeMonth": 180,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-02-06": 32
+      "2023-02-06": 63
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "search",
     "status": "degraded",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
     "time": 8734,
     "timeDay": 8734,
     "timeWeek": 8734,
     "timeMonth": 8734,
     "timeYear": 8734,
     "dailyMinutesDown": {
-      "2023-02-06": 59
+      "2023-02-06": 90
     }
   },
   {
@@ -103,18 +103,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "fact-check",
     "status": "down",
-    "uptime": "2.28%",
-    "uptimeDay": "2.28%",
-    "uptimeWeek": "2.28%",
-    "uptimeMonth": "2.28%",
-    "uptimeYear": "2.28%",
+    "uptime": "1.56%",
+    "uptimeDay": "1.56%",
+    "uptimeWeek": "1.56%",
+    "uptimeMonth": "1.56%",
+    "uptimeYear": "1.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-06": 65
+      "2023-02-06": 95
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "51.10%",
-    "uptimeDay": "51.10%",
-    "uptimeWeek": "51.10%",
-    "uptimeMonth": "51.10%",
-    "uptimeYear": "51.10%",
+    "uptime": "34.75%",
+    "uptimeDay": "34.75%",
+    "uptimeWeek": "34.75%",
+    "uptimeMonth": "34.75%",
+    "uptimeYear": "34.75%",
     "time": 1534,
     "timeDay": 1534,
     "timeWeek": 1534,
     "timeMonth": 1534,
     "timeYear": 1534,
     "dailyMinutesDown": {
-      "2023-02-06": 32
+      "2023-02-06": 62
     }
   },
   {
@@ -161,18 +161,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "claim-search",
     "status": "down",
-    "uptime": "49.57%",
-    "uptimeDay": "49.57%",
-    "uptimeWeek": "49.57%",
-    "uptimeMonth": "49.57%",
-    "uptimeYear": "49.57%",
+    "uptime": "33.70%",
+    "uptimeDay": "33.70%",
+    "uptimeWeek": "33.70%",
+    "uptimeMonth": "33.70%",
+    "uptimeYear": "33.70%",
     "time": 254,
     "timeDay": 254,
     "timeWeek": 254,
     "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2023-02-06": 33
+      "2023-02-06": 63
     }
   }
 ]
