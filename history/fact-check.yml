@@ -1,7 +1,7 @@
 url: https://search.factiverse.no/v1/fact_check
 status: down
-code: 401
-responseTime: 90
-lastUpdated: 2023-06-01T09:03:49.141Z
+code: 502
+responseTime: 141
+lastUpdated: 2023-06-01T10:03:54.020Z
 startTime: Mon Feb 06 2023 11:35:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
