@@ -7,6 +7,9 @@ sites:
     url: https://search.factiverse.no/v1/statistics/claim_search
     method: GET
     maxResponseTime: 10000
+    assignees:
+      - withchristopher
+      - vinaysetty
   - name: /bias_detection
     url: https://search.factiverse.no/v1/bias_detection
     method: POST
@@ -78,13 +81,13 @@ sites:
     body: '{"logging": false, "lang": "en", "query": "The earth is not flat.", "fromDate": "2022-08-31", "toDate": "2022-09-28", "reverseSortPubDate": true, "size": 10, "searchEngine": [ "fact_search_elasticsearch"]}'
 
 workflowSchedule:
-  graphs: "*/60 * * * *"
-  responseTime: "*/60 * * * *"
-  staticSite: "*/60 * * * *"
-  summary: "*/60 * * * *"
-  updateTemplate: "*/60 * * * *"
-  updates: "*/60 * * * *"
-  uptime: "*/60 * * * *"
+  graphs: "*/10 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/10 * * * *"
+  summary: "*/10 * * * *"
+  updateTemplate: "*/10 * * * *"
+  updates: "*/10 * * * *"
+  uptime: "*/10 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
