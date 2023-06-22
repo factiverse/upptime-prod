@@ -1,7 +1,7 @@
 url: https://search.factiverse.no/v1/claim_detection
-status: degraded
+status: down
 code: 401
-responseTime: 13533
-lastUpdated: 2023-06-22T09:22:24.059Z
+responseTime: 145
+lastUpdated: 2023-06-22T09:27:44.040Z
 startTime: Mon Feb 06 2023 10:57:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
