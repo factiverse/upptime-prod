@@ -1,7 +1,7 @@
 url: https://search.factiverse.no/v1/feedback
-status: down
+status: degraded
 code: 401
-responseTime: 93
-lastUpdated: 2023-06-30T16:36:01.162Z
+responseTime: 9163
+lastUpdated: 2023-06-30T16:43:56.858Z
 startTime: Mon Feb 06 2023 11:37:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
