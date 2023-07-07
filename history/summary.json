@@ -12,7 +12,7 @@
     "uptimeYear": "51.45%",
     "time": 860,
     "timeDay": 751,
-    "timeWeek": 741,
+    "timeWeek": 742,
     "timeMonth": 743,
     "timeYear": 860,
     "dailyMinutesDown": {
@@ -104,18 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "bias-detection",
     "status": "down",
-    "uptime": "29.44%",
+    "uptime": "29.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.44%",
+    "uptimeYear": "29.43%",
     "time": 137,
     "timeDay": 147,
     "timeWeek": 130,
     "timeMonth": 143,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-07-07": 532,
+      "2023-07-07": 543,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -242,7 +242,7 @@
     "timeMonth": 135,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-07-07": 532,
+      "2023-07-07": 543,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -409,7 +409,7 @@
     "timeMonth": 130,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-07-07": 532,
+      "2023-07-07": 543,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -537,7 +537,7 @@
     "timeMonth": 120,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-07-07": 532,
+      "2023-07-07": 544,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -623,7 +623,7 @@
     "timeMonth": 120,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2023-07-07": 533,
+      "2023-07-07": 544,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -756,7 +756,7 @@
     "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-07-07": 533,
+      "2023-07-07": 544,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -816,7 +816,7 @@
     "timeMonth": 128,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-07-07": 533,
+      "2023-07-07": 545,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
@@ -872,7 +872,7 @@
     "uptimeYear": "74.87%",
     "time": 222,
     "timeDay": 175,
-    "timeWeek": 193,
+    "timeWeek": 194,
     "timeMonth": 180,
     "timeYear": 222,
     "dailyMinutesDown": {
