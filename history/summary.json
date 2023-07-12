@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/search.factiverse.no.ico",
     "slug": "statistics-claim-search",
     "status": "up",
-    "uptime": "53.17%",
+    "uptime": "53.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.27%",
-    "uptimeYear": "53.17%",
+    "uptimeYear": "53.18%",
     "time": 846,
-    "timeDay": 721,
+    "timeDay": 722,
     "timeWeek": 753,
     "timeMonth": 744,
     "timeYear": 846,
@@ -115,7 +115,7 @@
     "timeMonth": 137,
     "timeYear": 135,
     "dailyMinutesDown": {
-      "2023-07-12": 1323,
+      "2023-07-12": 1335,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -247,7 +247,7 @@
     "timeMonth": 133,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2023-07-12": 1323,
+      "2023-07-12": 1335,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -419,7 +419,7 @@
     "timeMonth": 129,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-07-12": 1323,
+      "2023-07-12": 1336,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -552,7 +552,7 @@
     "timeMonth": 120,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-07-12": 1324,
+      "2023-07-12": 1336,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -643,7 +643,7 @@
     "timeMonth": 120,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2023-07-12": 1324,
+      "2023-07-12": 1337,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -781,7 +781,7 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-07-12": 1324,
+      "2023-07-12": 1337,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -846,7 +846,7 @@
     "timeMonth": 127,
     "timeYear": 149,
     "dailyMinutesDown": {
-      "2023-07-12": 1325,
+      "2023-07-12": 1337,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -907,7 +907,7 @@
     "uptimeYear": "75.76%",
     "time": 215,
     "timeDay": 161,
-    "timeWeek": 171,
+    "timeWeek": 170,
     "timeMonth": 180,
     "timeYear": 215,
     "dailyMinutesDown": {
