@@ -1,7 +1,7 @@
-url: https://search.factiverse.no/v1/bias_detection
+url: https://prod.factiverse.ai/v1/bias_detection
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-29T21:40:57.563Z
+code: 401
+responseTime: 102
+lastUpdated: 2023-12-18T17:13:23.304Z
 startTime: 2023-02-06T10:56:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
