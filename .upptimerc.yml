@@ -5,8 +5,7 @@ repo: upptime-prod # The name of this repository
 sites:
   - name: /statistics/claim_search
     url: https://prod.factiverse.ai/v1/statistics/claim_search
-    method: POST
-    body: '{"logging": false, "lang": "en", "query": "The earth is not flat.", "fromDate": "2022-08-31", "toDate": "2022-09-28", "reverseSortPubDate": true, "size": 10, "searchEngine": [ "fact_search_elasticsearch"]}'
+    method: GET
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
