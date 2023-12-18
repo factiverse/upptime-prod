@@ -73,13 +73,13 @@ sites:
     body: '{"logging": false, "lang": "en", "query": "The earth is not flat.", "fromDate": "2022-08-31", "toDate": "2022-09-28", "reverseSortPubDate": true, "size": 10, "searchEngine": [ "fact_search_elasticsearch"]}'
 
 workflowSchedule:
-  graphs: "*/10 * * * *"
-  responseTime: "*/10 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
-  updateTemplate: "*/10 * * * *"
-  updates: "*/10 * * * *"
-  uptime: "*/10 * * * *"
+  graphs: "*/20 * * * *"
+  responseTime: "*/20 * * * *"
+  staticSite: "*/20 * * * *"
+  summary: "*/20 * * * *"
+  updateTemplate: "*/20 * * * *"
+  updates: "*/20 * * * *"
+  uptime: "*/20 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
