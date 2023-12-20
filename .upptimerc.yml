@@ -10,13 +10,13 @@ sites:
       - tobiastykvart
  
 workflowSchedule:
-  graphs: "*/20 * * * *"
-  responseTime: "*/20 * * * *"
-  staticSite: "*/20 * * * *"
-  summary: "*/20 * * * *"
-  updateTemplate: "*/20 * * * *"
-  updates: "*/20 * * * *"
-  uptime: "*/20 * * * *"
+  graphs: "*/30 * * * *"
+  responseTime: "*/30 * * * *"
+  staticSite: "*/30 * * * *"
+  summary: "*/30 * * * *"
+  updateTemplate: "*/30 * * * *"
+  updates: "*/30 * * * *"
+  uptime: "*/30 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
