@@ -8,7 +8,70 @@ sites:
     method: GET
     assignees:
       - tobiastykvart
- 
+  - name: /bias_detection
+    url: https://prod.factiverse.ai/v1/bias_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
+  - name: /stance_detection
+    url: https://prod.factiverse.ai/v1/stance_detection
+    method: POST
+    headers:
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"claim": "Donald Trump won the 2020 election.", "lang": "en", "logging": false}'
+  - name: /claim_detection
+    url: https://prod.factiverse.ai/v1/claim_detection
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
+  - name: /search
+    url: https://prod.factiverse.ai/v1/search
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "query": "The earth is flat.", "searchEngine": ["google", "wikipedia", "google_claims", "bing_news"], "logging": false}'
+  - name: /fact_check
+    url: https://prod.factiverse.ai/v1/fact_check
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"logging": false, "lang": "en", "collection": "test", "claims": ["The earth is flat."], "url": "https://www.bbc.com/news/world-asia-58112981", "text": "The director of Afghanistans media and informationcentre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed bygunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "domainsToSearch": ["news"]}'
+  - name: /feedback
+    url: https://prod.factiverse.ai/v1/feedback
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
+  - name: /microfacts
+    url: https://prod.factiverse.ai/v1/microfacts
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"lang": "en", "text": "A judge on Tuesday ordered the immediate release of Mr Strickland from state custody, after 15,487 days behind bars. Lawyers for the Midwest Innocence Project, who have worked for months to help free Mr Strickland, told the BBC they were ecstatic about the news.", "recommend_entities": true}'
+  - name: /claim_search
+    url: https://prod.factiverse.ai/v1/claim_search
+    method: POST
+    headers:
+      - "Authorization: Bearer $API_TOKEN"
+      - "accept: application/json"
+      - "Content-Type: application/json"
+    body: '{"logging": false, "lang": "en", "query": "The earth is not flat.", "fromDate": "2022-08-31", "toDate": "2022-09-28", "reverseSortPubDate": true, "size": 10, "searchEngine": [ "fact_search_elasticsearch"]}'
+
 workflowSchedule:
   graphs: "*/30 * * * *"
   responseTime: "*/30 * * * *"
