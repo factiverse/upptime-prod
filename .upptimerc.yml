@@ -20,6 +20,7 @@ sites:
     url: https://prod.factiverse.ai/v1/stance_detection
     method: POST
     headers:
+      - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"claim": "Donald Trump won the 2020 election.", "lang": "en", "logging": false}'
