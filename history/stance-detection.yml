@@ -1,7 +1,7 @@
 url: https://prod.factiverse.ai/v1/stance_detection
-status: down
-code: 502
-responseTime: 9097
-lastUpdated: 2023-12-22T17:02:51.981Z
+status: up
+code: 200
+responseTime: 232
+lastUpdated: 2023-12-22T17:31:15.391Z
 startTime: 2023-02-06T10:56:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
