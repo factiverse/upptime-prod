@@ -11,6 +11,8 @@ sites:
   - name: /bias_detection
     url: https://prod.factiverse.ai/v1/bias_detection
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -19,6 +21,8 @@ sites:
   - name: /stance_detection
     url: https://prod.factiverse.ai/v1/stance_detection
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -27,6 +31,8 @@ sites:
   - name: /claim_detection
     url: https://prod.factiverse.ai/v1/claim_detection
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -35,6 +41,8 @@ sites:
   - name: /search
     url: https://prod.factiverse.ai/v1/search
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -43,6 +51,8 @@ sites:
   - name: /fact_check
     url: https://prod.factiverse.ai/v1/fact_check
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -51,6 +61,8 @@ sites:
   - name: /feedback
     url: https://prod.factiverse.ai/v1/feedback
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -59,6 +71,8 @@ sites:
   - name: /microfacts
     url: https://prod.factiverse.ai/v1/microfacts
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
@@ -67,6 +81,8 @@ sites:
   - name: /claim_search
     url: https://prod.factiverse.ai/v1/claim_search
     method: POST
+    assignees:
+      - tobiastykvart
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
