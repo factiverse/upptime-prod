@@ -47,7 +47,7 @@ sites:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
       - "Content-Type: application/json"
-    body: '{"lang": "en", "query": "The earth is flat.", "searchEngine": ["google", "wikipedia", "google_claims", "bing_news"], "logging": false}'
+    body: '{"lang": "en", "query": "The earth is flat.", "searchEngine": ["google", "wikipedia", "google_claims", "bing_search"], "logging": false}'
   - name: /fact_check
     url: https://prod.factiverse.ai/v1/fact_check
     method: POST
