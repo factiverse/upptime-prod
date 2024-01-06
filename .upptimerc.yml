@@ -8,16 +8,6 @@ sites:
     method: GET
     assignees:
       - tobiastykvart
-  - name: /bias_detection
-    url: https://prod.factiverse.ai/v1/bias_detection
-    method: POST
-    assignees:
-      - tobiastykvart
-    headers:
-      - "Authorization: Bearer $API_TOKEN"
-      - "accept: application/json"
-      - "Content-Type: application/json"
-    body: '{"lang": "en", "text": "History is replete with examples of cultures in which taking guns away from law-abiding citizens foreshadowed catastrophic abuses of the power thereby invested in government.", "logging": false}'
   - name: /stance_detection
     url: https://prod.factiverse.ai/v1/stance_detection
     method: POST
@@ -38,36 +28,6 @@ sites:
       - "accept: application/json"
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
-  - name: /search
-    url: https://prod.factiverse.ai/v1/search
-    method: POST
-    assignees:
-      - tobiastykvart
-    headers:
-      - "Authorization: Bearer $API_TOKEN"
-      - "accept: application/json"
-      - "Content-Type: application/json"
-    body: '{"lang": "en", "query": "The earth is flat.", "searchEngine": ["google", "wikipedia", "google_claims", "bing_search"], "logging": false}'
-  - name: /fact_check
-    url: https://prod.factiverse.ai/v1/fact_check
-    method: POST
-    assignees:
-      - tobiastykvart
-    headers:
-      - "Authorization: Bearer $API_TOKEN"
-      - "accept: application/json"
-      - "Content-Type: application/json"
-    body: '{"logging": false, "lang": "en", "collection": "test", "claims": ["The earth is flat."], "url": "https://www.bbc.com/news/world-asia-58112981", "text": "The director of Afghanistans media and informationcentre has been assassinated by Taliban militants in the capital, Kabul. Dawa Khan Menapal was killed bygunmen on Darul Aman Road in the capital, reports said. I am not worth checking.", "domainsToSearch": ["news"]}'
-  - name: /feedback
-    url: https://prod.factiverse.ai/v1/feedback
-    method: POST
-    assignees:
-      - tobiastykvart
-    headers:
-      - "Authorization: Bearer $API_TOKEN"
-      - "accept: application/json"
-      - "Content-Type: application/json"
-    body: '{"feedbackType": "UITest", "payload": {}, "logging": false}'
   - name: /microfacts
     url: https://prod.factiverse.ai/v1/microfacts
     method: POST
