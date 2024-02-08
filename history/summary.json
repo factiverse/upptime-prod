@@ -251,11 +251,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "12.22%",
+    "uptime": "12.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "70.42%",
-    "uptimeYear": "12.00%",
+    "uptimeYear": "12.01%",
     "time": 260,
     "timeDay": 137,
     "timeWeek": 152,
@@ -586,8 +586,7 @@
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 1440
+      "2023-02-09": 1440
     }
   },
   {
@@ -596,7 +595,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "22.58%",
+    "uptime": "22.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
@@ -1144,7 +1143,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
-    "uptimeYear": "48.14%",
+    "uptimeYear": "48.15%",
     "time": 180,
     "timeDay": 114,
     "timeWeek": 122,
@@ -1343,8 +1342,7 @@
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 1440
+      "2023-02-09": 1440
     }
   }
 ]
