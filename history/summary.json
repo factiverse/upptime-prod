@@ -251,16 +251,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "12.46%",
+    "uptime": "12.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "70.42%",
-    "uptimeYear": "12.28%",
+    "uptimeYear": "12.29%",
     "time": 260,
-    "timeDay": 206,
+    "timeDay": 208,
     "timeWeek": 166,
     "timeMonth": 153,
-    "timeYear": 239,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2024-02-06": 29,
       "2024-01-30": 728,
@@ -585,8 +585,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   },
   {
@@ -595,13 +594,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "22.80%",
+    "uptime": "22.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
     "uptimeYear": "22.28%",
     "time": 127,
-    "timeDay": 133,
+    "timeDay": 134,
     "timeWeek": 123,
     "timeMonth": 121,
     "timeYear": 127,
@@ -901,13 +900,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "41.29%",
+    "uptime": "41.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
     "uptimeYear": "40.90%",
     "time": 140,
-    "timeDay": 168,
+    "timeDay": 169,
     "timeWeek": 133,
     "timeMonth": 127,
     "timeYear": 139,
@@ -1143,12 +1142,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
-    "uptimeYear": "48.42%",
+    "uptimeYear": "48.43%",
     "time": 180,
-    "timeDay": 304,
+    "timeDay": 305,
     "timeWeek": 150,
     "timeMonth": 136,
-    "timeYear": 180,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-01-30": 729,
       "2024-01-29": 1440,
@@ -1341,8 +1340,7 @@
       "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
-      "2023-02-10": 1440,
-      "2023-02-09": 1440
+      "2023-02-10": 1440
     }
   }
 ]
