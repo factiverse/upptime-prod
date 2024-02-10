@@ -258,7 +258,7 @@
     "uptimeYear": "12.60%",
     "time": 259,
     "timeDay": 121,
-    "timeWeek": 165,
+    "timeWeek": 166,
     "timeMonth": 153,
     "timeYear": 235,
     "dailyMinutesDown": {
@@ -899,7 +899,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "41.47%",
+    "uptime": "41.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.48%",
@@ -908,7 +908,7 @@
     "timeDay": 124,
     "timeWeek": 132,
     "timeMonth": 127,
-    "timeYear": 139,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2024-01-30": 728,
       "2024-01-29": 1440,
