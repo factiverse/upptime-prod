@@ -13,7 +13,7 @@
     "time": 662,
     "timeDay": 262,
     "timeWeek": 312,
-    "timeMonth": 311,
+    "timeMonth": 310,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2024-02-15": 30,
@@ -248,7 +248,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "14.58%",
+    "uptime": "14.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "70.42%",
