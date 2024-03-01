@@ -13,7 +13,7 @@
     "time": 643,
     "timeDay": 272,
     "timeWeek": 308,
-    "timeMonth": 307,
+    "timeMonth": 310,
     "timeYear": 623,
     "dailyMinutesDown": {
       "2024-02-19": 30,
@@ -247,15 +247,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "17.18%",
+    "uptime": "17.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "17.75%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "17.76%",
     "time": 251,
     "timeDay": 120,
     "timeWeek": 204,
-    "timeMonth": 165,
+    "timeMonth": 168,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2024-02-19": 29,
@@ -561,8 +561,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   },
   {
@@ -571,14 +570,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "26.96%",
+    "uptime": "26.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "22.27%",
     "time": 127,
     "timeDay": 116,
-    "timeWeek": 119,
+    "timeWeek": 120,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -878,15 +877,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "44.45%",
+    "uptime": "44.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "40.90%",
     "time": 140,
     "timeDay": 123,
     "timeWeek": 132,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2024-02-19": 28,
@@ -1117,15 +1116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "51.17%",
+    "uptime": "51.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.16%",
-    "uptimeYear": "53.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "53.90%",
     "time": 177,
     "timeDay": 119,
     "timeWeek": 163,
-    "timeMonth": 143,
+    "timeMonth": 144,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2024-02-19": 28,
@@ -1299,8 +1298,7 @@
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
-      "2023-03-03": 1440,
-      "2023-03-02": 1440
+      "2023-03-03": 1440
     }
   }
 ]
