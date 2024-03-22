@@ -11,10 +11,10 @@
     "uptimeMonth": "83.91%",
     "uptimeYear": "0.00%",
     "time": 613,
-    "timeDay": 271,
+    "timeDay": 272,
     "timeWeek": 311,
     "timeMonth": 304,
-    "timeYear": 581,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2024-03-18": 29,
       "2024-03-12": 691,
@@ -244,8 +244,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -254,16 +253,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "20.24%",
+    "uptime": "20.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "83.98%",
     "uptimeYear": "20.93%",
     "time": 246,
-    "timeDay": 229,
+    "timeDay": 230,
     "timeWeek": 264,
     "timeMonth": 192,
-    "timeYear": 167,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2024-03-18": 29,
       "2024-03-12": 691,
@@ -558,8 +557,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -574,8 +572,8 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "22.26%",
     "time": 127,
-    "timeDay": 122,
-    "timeWeek": 152,
+    "timeDay": 123,
+    "timeWeek": 153,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {
@@ -866,8 +864,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -882,7 +879,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "40.89%",
     "time": 141,
-    "timeDay": 131,
+    "timeDay": 132,
     "timeWeek": 167,
     "timeMonth": 149,
     "timeYear": 133,
@@ -1123,7 +1120,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "58.40%",
     "time": 173,
-    "timeDay": 126,
+    "timeDay": 128,
     "timeWeek": 166,
     "timeMonth": 143,
     "timeYear": 154,
