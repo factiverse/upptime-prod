@@ -11,8 +11,8 @@
     "uptimeMonth": "83.91%",
     "uptimeYear": "0.00%",
     "time": 563,
-    "timeDay": 271,
-    "timeWeek": 396,
+    "timeDay": 277,
+    "timeWeek": 397,
     "timeMonth": 361,
     "timeYear": 561,
     "dailyMinutesDown": {
@@ -239,7 +239,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "22.97%",
+    "uptime": "22.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.98%",
@@ -247,7 +247,7 @@
     "time": 155,
     "timeDay": 177,
     "timeWeek": 179,
-    "timeMonth": 213,
+    "timeMonth": 214,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2024-03-18": 29,
