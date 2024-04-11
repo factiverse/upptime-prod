@@ -8,11 +8,11 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "94.94%",
+    "uptimeMonth": "95.11%",
     "uptimeYear": "0.00%",
     "time": 556,
-    "timeDay": 481,
-    "timeWeek": 373,
+    "timeDay": 482,
+    "timeWeek": 312,
     "timeMonth": 362,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -225,8 +225,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -235,13 +234,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "23.96%",
+    "uptime": "23.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.01%",
-    "uptimeYear": "26.17%",
+    "uptimeMonth": "95.18%",
+    "uptimeYear": "26.18%",
     "time": 156,
-    "timeDay": 177,
+    "timeDay": 176,
     "timeWeek": 186,
     "timeMonth": 212,
     "timeYear": 155,
@@ -519,8 +518,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -533,7 +531,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "27.50%",
+    "uptimeYear": "27.51%",
     "time": 126,
     "timeDay": 117,
     "timeWeek": 122,
@@ -807,8 +805,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1440,
-      "2023-04-12": 1440
+      "2023-04-13": 1440
     }
   },
   {
@@ -817,7 +814,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "49.75%",
+    "uptime": "49.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -1058,7 +1055,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "55.82%",
+    "uptime": "55.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
