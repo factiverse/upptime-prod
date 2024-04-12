@@ -8,11 +8,11 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "98.23%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "0.00%",
     "time": 555,
-    "timeDay": 288,
-    "timeWeek": 315,
+    "timeDay": 286,
+    "timeWeek": 314,
     "timeMonth": 361,
     "timeYear": 552,
     "dailyMinutesDown": {
@@ -224,8 +224,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -234,13 +233,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "24.13%",
+    "uptime": "24.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "26.44%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "26.45%",
     "time": 157,
-    "timeDay": 317,
+    "timeDay": 315,
     "timeWeek": 206,
     "timeMonth": 218,
     "timeYear": 156,
@@ -517,8 +516,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -531,9 +529,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "27.77%",
+    "uptimeYear": "27.78%",
     "time": 126,
-    "timeDay": 127,
+    "timeDay": 125,
     "timeWeek": 124,
     "timeMonth": 127,
     "timeYear": 126,
@@ -804,8 +802,7 @@
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
-      "2023-04-14": 1440,
-      "2023-04-13": 1440
+      "2023-04-14": 1440
     }
   },
   {
@@ -820,7 +817,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "40.89%",
     "time": 133,
-    "timeDay": 134,
+    "timeDay": 132,
     "timeWeek": 131,
     "timeMonth": 153,
     "timeYear": 133,
@@ -1061,7 +1058,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "58.40%",
     "time": 153,
-    "timeDay": 130,
+    "timeDay": 128,
     "timeWeek": 127,
     "timeMonth": 145,
     "timeYear": 153,
