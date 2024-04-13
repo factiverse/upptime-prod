@@ -10,11 +10,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "0.00%",
-    "time": 552,
-    "timeDay": 263,
-    "timeWeek": 312,
-    "timeMonth": 357,
-    "timeYear": 550,
+    "time": 553,
+    "timeDay": 365,
+    "timeWeek": 327,
+    "timeMonth": 360,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2024-04-06": 29,
       "2024-03-18": 29,
@@ -223,8 +223,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -237,12 +236,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "26.71%",
+    "uptimeYear": "26.72%",
     "time": 157,
-    "timeDay": 180,
+    "timeDay": 181,
     "timeWeek": 205,
     "timeMonth": 219,
-    "timeYear": 156,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2024-03-18": 29,
       "2024-03-12": 691,
@@ -515,8 +514,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -525,11 +523,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "34.23%",
+    "uptime": "34.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "28.04%",
+    "uptimeYear": "28.05%",
     "time": 126,
     "timeDay": 115,
     "timeWeek": 123,
@@ -801,8 +799,7 @@
       "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
-      "2023-04-15": 1440,
-      "2023-04-14": 1440
+      "2023-04-15": 1440
     }
   },
   {
@@ -811,7 +808,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "49.98%",
+    "uptime": "49.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
