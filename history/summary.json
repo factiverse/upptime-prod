@@ -11,7 +11,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "0.00%",
     "time": 543,
-    "timeDay": 277,
+    "timeDay": 275,
     "timeWeek": 322,
     "timeMonth": 364,
     "timeYear": 540,
@@ -215,8 +215,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
-      "2023-04-23": 1440,
-      "2023-04-22": 1440
+      "2023-04-23": 1440
     }
   },
   {
@@ -231,7 +230,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "28.91%",
     "time": 158,
-    "timeDay": 186,
+    "timeDay": 185,
     "timeWeek": 221,
     "timeMonth": 215,
     "timeYear": 157,
@@ -499,8 +498,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
-      "2023-04-23": 1440,
-      "2023-04-22": 1440
+      "2023-04-23": 1440
     }
   },
   {
@@ -777,8 +775,7 @@
       "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
-      "2023-04-23": 1440,
-      "2023-04-22": 1440
+      "2023-04-23": 1440
     }
   },
   {
@@ -787,13 +784,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "50.89%",
+    "uptime": "50.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 133,
-    "timeDay": 131,
+    "timeDay": 130,
     "timeWeek": 145,
     "timeMonth": 137,
     "timeYear": 133,
@@ -1034,7 +1031,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.40%",
     "time": 153,
-    "timeDay": 127,
+    "timeDay": 126,
     "timeWeek": 157,
     "timeMonth": 143,
     "timeYear": 153,
