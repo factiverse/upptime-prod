@@ -11,7 +11,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "0.00%",
     "time": 541,
-    "timeDay": 295,
+    "timeDay": 287,
     "timeWeek": 324,
     "timeMonth": 356,
     "timeYear": 537,
@@ -213,8 +213,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -223,14 +222,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "26.19%",
+    "uptime": "26.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "29.73%",
     "time": 158,
     "timeDay": 190,
-    "timeWeek": 237,
+    "timeWeek": 236,
     "timeMonth": 222,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -494,8 +493,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -769,8 +767,7 @@
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
-      "2023-04-26": 1440,
-      "2023-04-25": 1440
+      "2023-04-26": 1440
     }
   },
   {
@@ -785,7 +782,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 135,
-    "timeDay": 136,
+    "timeDay": 135,
     "timeWeek": 190,
     "timeMonth": 151,
     "timeYear": 135,
