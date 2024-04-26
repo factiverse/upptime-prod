@@ -11,7 +11,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "0.00%",
     "time": 538,
-    "timeDay": 591,
+    "timeDay": 594,
     "timeWeek": 372,
     "timeMonth": 356,
     "timeYear": 535,
@@ -211,8 +211,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   },
   {
@@ -221,13 +220,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "26.52%",
+    "uptime": "26.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "30.28%",
     "time": 158,
-    "timeDay": 178,
+    "timeDay": 181,
     "timeWeek": 231,
     "timeMonth": 220,
     "timeYear": 159,
@@ -490,8 +489,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   },
   {
@@ -506,7 +504,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "31.61%",
     "time": 128,
-    "timeDay": 124,
+    "timeDay": 125,
     "timeWeek": 130,
     "timeMonth": 139,
     "timeYear": 128,
@@ -763,8 +761,7 @@
       "2023-05-01": 1440,
       "2023-04-30": 1440,
       "2023-04-29": 1440,
-      "2023-04-28": 1440,
-      "2023-04-27": 1440
+      "2023-04-28": 1440
     }
   },
   {
@@ -779,7 +776,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 135,
-    "timeDay": 130,
+    "timeDay": 131,
     "timeWeek": 201,
     "timeMonth": 150,
     "timeYear": 135,
@@ -1014,13 +1011,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "57.31%",
+    "uptime": "57.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.40%",
     "time": 153,
-    "timeDay": 128,
+    "timeDay": 129,
     "timeWeek": 153,
     "timeMonth": 148,
     "timeYear": 153,
