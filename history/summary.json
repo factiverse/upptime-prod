@@ -225,7 +225,7 @@
     "time": 159,
     "timeDay": 176,
     "timeWeek": 185,
-    "timeMonth": 208,
+    "timeMonth": 207,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2024-03-18": 29,
@@ -1002,7 +1002,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "57.69%",
+    "uptime": "57.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
