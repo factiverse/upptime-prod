@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "0.00%",
-    "time": 529,
-    "timeDay": 262,
-    "timeWeek": 279,
+    "time": 528,
+    "timeDay": 261,
+    "timeWeek": 278,
     "timeMonth": 336,
     "timeYear": 525,
     "dailyMinutesDown": {
@@ -204,8 +204,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -214,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "27.66%",
+    "uptime": "27.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.19%",
+    "uptimeYear": "32.20%",
     "time": 159,
     "timeDay": 171,
     "timeWeek": 181,
@@ -476,8 +475,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -486,13 +484,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "37.14%",
+    "uptime": "37.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.52%",
+    "uptimeYear": "33.53%",
     "time": 128,
-    "timeDay": 113,
+    "timeDay": 112,
     "timeWeek": 133,
     "timeMonth": 144,
     "timeYear": 128,
@@ -742,8 +740,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
@@ -758,7 +755,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 136,
-    "timeDay": 121,
+    "timeDay": 119,
     "timeWeek": 158,
     "timeMonth": 156,
     "timeYear": 136,
@@ -999,7 +996,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.40%",
     "time": 153,
-    "timeDay": 124,
+    "timeDay": 123,
     "timeWeek": 127,
     "timeMonth": 139,
     "timeYear": 153,
