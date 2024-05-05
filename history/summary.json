@@ -11,7 +11,7 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "0.00%",
     "time": 525,
-    "timeDay": 275,
+    "timeDay": 277,
     "timeWeek": 281,
     "timeMonth": 324,
     "timeYear": 523,
@@ -202,8 +202,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   },
   {
@@ -212,13 +211,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "27.98%",
+    "uptime": "27.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.74%",
+    "uptimeYear": "32.75%",
     "time": 165,
-    "timeDay": 974,
+    "timeDay": 976,
     "timeWeek": 403,
     "timeMonth": 261,
     "timeYear": 165,
@@ -472,8 +471,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   },
   {
@@ -482,13 +480,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "37.42%",
+    "uptime": "37.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.07%",
+    "uptimeYear": "34.08%",
     "time": 129,
-    "timeDay": 130,
+    "timeDay": 131,
     "timeWeek": 158,
     "timeMonth": 150,
     "timeYear": 129,
@@ -736,8 +734,7 @@
       "2023-05-10": 1440,
       "2023-05-09": 1440,
       "2023-05-08": 1440,
-      "2023-05-07": 1440,
-      "2023-05-06": 1440
+      "2023-05-07": 1440
     }
   },
   {
@@ -752,8 +749,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 137,
-    "timeDay": 133,
-    "timeWeek": 189,
+    "timeDay": 135,
+    "timeWeek": 190,
     "timeMonth": 166,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -993,7 +990,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.40%",
     "time": 153,
-    "timeDay": 135,
+    "timeDay": 137,
     "timeWeek": 149,
     "timeMonth": 145,
     "timeYear": 153,
