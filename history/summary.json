@@ -11,7 +11,7 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "0.00%",
     "time": 523,
-    "timeDay": 288,
+    "timeDay": 285,
     "timeWeek": 283,
     "timeMonth": 323,
     "timeYear": 520,
@@ -200,8 +200,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1440,
-      "2023-05-08": 1440
+      "2023-05-09": 1440
     }
   },
   {
@@ -210,13 +209,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "stance-detection",
     "status": "up",
-    "uptime": "28.29%",
+    "uptime": "28.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.28%",
+    "uptimeYear": "33.30%",
     "time": 167,
-    "timeDay": 177,
+    "timeDay": 175,
     "timeWeek": 457,
     "timeMonth": 274,
     "timeYear": 167,
@@ -468,8 +467,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1440,
-      "2023-05-08": 1440
+      "2023-05-09": 1440
     }
   },
   {
@@ -478,13 +476,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "37.69%",
+    "uptime": "37.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "34.61%",
+    "uptimeYear": "34.63%",
     "time": 129,
-    "timeDay": 137,
+    "timeDay": 135,
     "timeWeek": 149,
     "timeMonth": 151,
     "timeYear": 129,
@@ -730,8 +728,7 @@
       "2023-05-12": 1440,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
-      "2023-05-09": 1440,
-      "2023-05-08": 1440
+      "2023-05-09": 1440
     }
   },
   {
@@ -746,7 +743,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "40.89%",
     "time": 137,
-    "timeDay": 142,
+    "timeDay": 140,
     "timeWeek": 174,
     "timeMonth": 166,
     "timeYear": 137,
@@ -981,13 +978,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "58.34%",
+    "uptime": "58.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "58.40%",
     "time": 154,
-    "timeDay": 140,
+    "timeDay": 138,
     "timeWeek": 195,
     "timeMonth": 156,
     "timeYear": 154,
