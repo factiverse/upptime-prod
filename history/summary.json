@@ -11,10 +11,10 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "0.00%",
     "time": 515,
-    "timeDay": 274,
-    "timeWeek": 317,
-    "timeMonth": 325,
-    "timeYear": 513,
+    "timeDay": 275,
+    "timeWeek": 318,
+    "timeMonth": 321,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2024-05-10": 420,
       "2024-04-22": 28,
@@ -195,8 +195,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
@@ -209,7 +208,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "34.85%",
+    "uptimeYear": "34.87%",
     "time": 171,
     "timeDay": 212,
     "timeWeek": 321,
@@ -458,8 +457,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
@@ -468,11 +466,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-detection",
     "status": "up",
-    "uptime": "38.44%",
+    "uptime": "38.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "99.04%",
-    "uptimeYear": "36.18%",
+    "uptimeYear": "36.20%",
     "time": 129,
     "timeDay": 141,
     "timeWeek": 140,
@@ -715,8 +713,7 @@
       "2023-05-18": 1440,
       "2023-05-17": 1440,
       "2023-05-16": 1440,
-      "2023-05-15": 1440,
-      "2023-05-14": 1440
+      "2023-05-15": 1440
     }
   },
   {
@@ -725,13 +722,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "microfacts",
     "status": "up",
-    "uptime": "53.17%",
+    "uptime": "53.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "40.81%",
     "time": 137,
-    "timeDay": 181,
+    "timeDay": 180,
     "timeWeek": 147,
     "timeMonth": 170,
     "timeYear": 137,
@@ -967,13 +964,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.factiverse.ai.ico",
     "slug": "claim-search",
     "status": "up",
-    "uptime": "58.82%",
+    "uptime": "58.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.83%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "58.32%",
     "time": 156,
-    "timeDay": 224,
+    "timeDay": 223,
     "timeWeek": 202,
     "timeMonth": 174,
     "timeYear": 155,
