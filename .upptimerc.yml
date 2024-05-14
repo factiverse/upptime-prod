@@ -23,6 +23,7 @@ sites:
     method: POST
     assignees:
       - tobiastykvart
+      - vinaysetty
     headers:
       - "Authorization: Bearer $API_TOKEN"
       - "accept: application/json"
