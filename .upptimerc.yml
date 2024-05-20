@@ -4,12 +4,12 @@ repo: upptime-prod # The name of this repository
 
 sites:
   - name: /statistics/claim_search
-    url: https://prod.factiverse.ai/v1/statistics/claim_search
+    url: https://api.factiverse.ai/v1/statistics/claim_search
     method: GET
     assignees:
       - tobiastykvart
   - name: /stance_detection
-    url: https://prod.factiverse.ai/v1/stance_detection
+    url: https://api.factiverse.ai/v1/stance_detection
     method: POST
     assignees:
       - tobiastykvart
@@ -19,7 +19,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"claim": "Donald Trump won the 2020 election.", "lang": "en", "logging": false}'
   - name: /claim_detection
-    url: https://prod.factiverse.ai/v1/claim_detection
+    url: https://api.factiverse.ai/v1/claim_detection
     method: POST
     assignees:
       - tobiastykvart
@@ -30,7 +30,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "I think we have seen a deterioration of values. US has the highest number of COVID infections ever", "logging": false}'
   - name: /microfacts
-    url: https://prod.factiverse.ai/v1/microfacts
+    url: https://api.factiverse.ai/v1/microfacts
     method: POST
     assignees:
       - tobiastykvart
@@ -40,7 +40,7 @@ sites:
       - "Content-Type: application/json"
     body: '{"lang": "en", "text": "A judge on Tuesday ordered the immediate release of Mr Strickland from state custody, after 15,487 days behind bars. Lawyers for the Midwest Innocence Project, who have worked for months to help free Mr Strickland, told the BBC they were ecstatic about the news.", "recommend_entities": true}'
   - name: /claim_search
-    url: https://prod.factiverse.ai/v1/claim_search
+    url: https://api.factiverse.ai/v1/claim_search
     method: POST
     assignees:
       - tobiastykvart
