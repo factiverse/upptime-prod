@@ -1,7 +1,7 @@
 url: https://api.factiverse.ai/v1/microfacts
-status: down
-code: 502
-responseTime: 9161
-lastUpdated: 2024-06-09T19:06:38.253Z
+status: up
+code: 200
+responseTime: 2899
+lastUpdated: 2024-06-09T20:05:26.520Z
 startTime: 2023-02-06T11:37:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
